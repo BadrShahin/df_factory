@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "datafactoryapp0"
+		},
+		"synapsedlsg2account_service_accountKey": {
+			"value": ""
+		},
+		"synapsedlsg2account_service_properties_typeProperties_url": {
+			"value": "https://synapsedlsg2account.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
